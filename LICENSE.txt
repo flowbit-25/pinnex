@@ -1,9 +1,22 @@
 Copyright (c) 2025 Dario Scarano.
-
 Tutti i diritti riservati.
 
-È vietata la copia, modifica, distribuzione o utilizzo non autorizzato di questo software.
+Questa estensione software, denominata "Pinnex", è di proprietà esclusiva dell'autore e viene concessa in licenza gratuita agli utenti finali unicamente per uso personale.
 
-L'utilizzo è consentito esclusivamente come estensione installata per uso personale tramite il Chrome Web Store o distribuzione ufficiale.
+È espressamente vietato:
+- Copiare, modificare o distribuire in qualsiasi forma il codice sorgente, i file o le risorse grafiche contenuti in questo progetto, in tutto o in parte, senza il consenso scritto dell'autore.
+- Utilizzare questa estensione o sue parti per creare prodotti derivati, concorrenti o commerciali.
 
-Per ogni altro utilizzo, contattare l'autore.
+L'utente è autorizzato esclusivamente a:
+- Installare ed eseguire l'estensione tramite il Chrome Web Store o altri canali ufficiali approvati dall'autore.
+- Usare le funzionalità offerte dall'estensione per scopi personali, non commerciali.
+
+L'autore non fornisce alcuna garanzia in merito alla correttezza, affidabilità o adeguatezza dell'estensione per scopi specifici e declina ogni responsabilità per eventuali danni diretti o indiretti derivanti dall'utilizzo.
+
+Per utilizzi diversi da quelli sopra indicati, contattare l'autore per ottenere autorizzazione scritta.
+
+---
+
+Pinnex è un marchio non registrato e il nome, il logo e l'interfaccia grafica sono anch'essi protetti dalle presenti condizioni.
+
+
